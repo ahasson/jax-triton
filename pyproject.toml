@@ -6,7 +6,7 @@ readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
   "absl-py>=1.4.0",
-  "jax>=0.4.34",
+  "jax>=0.4.33",
   "triton>=3.1",
 ]
 
